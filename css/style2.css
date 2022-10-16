@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Rubik;
+    src: url(/fonts/Rubik-Italic-VariableFont_wght.ttf);
+}
+
+.div1 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 80px;
+}
+
+.img1 {
+    margin-left: 190px;
+}
+
+.text1 {
+    margin-top: 120px;
+    font-family: Rubik;
+    font-size: 16px;
+    width: 520px;
+    color: whitesmoke;
+}
+
+.img2 {
+    position: absolute;
+    width: 380px;
+    margin-top: 50px;
+    margin-left: -250px;
+}
+
+.botao {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.circle {
+    border: 1px solid black;
+    border-radius: 30%;
+}
+
+.buttons {
+    position: absolute;
+    width: 45px;
+    margin-top: 3px;
+    margin-left: -50px;
+}
+
+.btn1 {
+    font-size: 1.4rem;
+    cursor: pointer;
+    color: gold;
+    background-color: black;
+    margin: 10px;
+    border: 2px solid gold;
+    border-radius: 1%;
+}
+
+.btn2 {
+    font-size: 1.4rem;
+    cursor: pointer;
+    color: rgb(202, 24, 33);
+    background-color: black;
+    margin: 10px;
+    border: 2px solid rgb(211, 30, 30);
+    border-radius: 1%;
+}
+
+.btn1:hover {
+    background-color: rgb(46, 46, 44);
+}
+
+.btn2:hover {
+    background-color: rgb(46, 46, 44);
+}
+
+.img3 {
+    position: absolute;
+    width: 700px;
+    margin-top: 60px;
+    margin-left: 480px;
+}
+
+.ref {
+    color: aliceblue;
+    text-decoration: none;
+}
